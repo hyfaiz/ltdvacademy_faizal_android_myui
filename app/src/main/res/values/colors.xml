@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4682B4</color>
+    <color name="colorPrimaryDark">#B0C4DE</color>
+    <color name="colorAccent">#5F9EA0</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="white">#ffffff</color>
+    <color name="peacepuff">#FFDAB9</color>
+</resources>

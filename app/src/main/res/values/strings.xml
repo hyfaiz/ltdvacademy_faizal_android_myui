@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="textJudul">Latihan ScrollView</string>
+    <string name="textDescription">Hi Nama saya Faizal, saya sangat suka dengan pemrograman android, alasan saya belajar android karena saya sadar bahwa saya goblok maka dari itu saya harus banyak baca dan praktek biar bisa</string>
+    <string name="instagram">Official Instagram</string>
+    <string name="github">Official Github</string>
+    <string name="wa">Official Whatsapp</string>
+    <string name="rating">Berikan Rating dan Feedback</string>
+    <string name="share">Beritahu Teman</string>
+    <string name="policy">Kebijakan Privasi</string>
+    <string name="copyright">Copyright 2019</string>
+</resources>
